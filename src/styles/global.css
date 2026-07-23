@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: #0b0f19;    /* Cor do fundo alterada */
+  --color-brand-card: #131b2e;  /* Cor dos cards alterada */
+  --color-brand-text: #F8FAFC;
+  --color-brand-muted: #94A3B8;
+  --color-brand-blue: #3B82F6;
+  --color-brand-purple: #a855f7;
+}
