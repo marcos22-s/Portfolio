@@ -111,8 +111,6 @@ Os arquivos otimizados serão gerados na pasta `dist/`.
 
 <div align="center">
 
-Estou aberto a oportunidades de estágio e efetivação em **Desenvolvimento Back-end**.
-Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-rodrigues-14391426b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcos22-s)
