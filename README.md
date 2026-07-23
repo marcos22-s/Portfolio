@@ -20,21 +20,6 @@ certificações, com uma identidade visual inspirada em terminais e interfaces c
 
 ---
 
-## 📸 Demonstração
-
-<div align="center">
-
-![Preview do Portfólio](./[Sua_Imagem].png)
-
-**🔗 Acesse o projeto no ar:** []
-
-</div>
-
-> 💡 Sugestão: hospede gratuitamente na [Vercel](https://vercel.com/) ou [Netlify](https://www.netlify.com/) e
-> substitua o link acima. Para o preview, um GIF curto navegando pelas seções costuma converter melhor do que
-> uma imagem estática — ferramentas como [ScreenToGif](https://www.screentogif.com/) ou
-> [Peek](https://github.com/phw/peek) resolvem isso rapidamente.
-
 ---
 
 ## ✨ Funcionalidades
