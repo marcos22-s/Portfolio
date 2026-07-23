@@ -26,7 +26,7 @@ certificações, com uma identidade visual inspirada em terminais e interfaces c
 
 ![Preview do Portfólio](./[Sua_Imagem].png)
 
-**🔗 Acesse o projeto no ar:** [https://github.com/marcos22-s/Portfolio]
+**🔗 Acesse o projeto no ar:** []
 
 </div>
 
